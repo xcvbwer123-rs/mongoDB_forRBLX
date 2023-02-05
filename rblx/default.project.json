@@ -1,0 +1,12 @@
+{
+    "name": "roMongoDB",
+    "tree": {
+        "$className": "DataModel",
+        "ServerStorage": {
+            "$className": "ServerStorage",
+            "roMongoDB": {
+                "$path": "src"
+            }
+        }
+    }
+}

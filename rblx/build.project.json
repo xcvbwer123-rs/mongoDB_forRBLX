@@ -1,0 +1,6 @@
+{
+    "name": "roMongoDB",
+    "tree": {
+        "$path": "src"
+    }
+}
